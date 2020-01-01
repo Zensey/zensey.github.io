@@ -1,0 +1,62 @@
+#EXTINF:-1, Svoboda
+https://stream.radiojar.com/hcrb063nn3quv
+#EXTINF:-1, Echo Msk
+http://ice912.echo.msk.ru:9120/stream
+#EXTINF:-1, 4duk radio 64
+http://radio.4duk.ru/4duk64.mp3
+#EXTINF:-1, 4duk radio
+http://radio.4duk.ru/4duk128.mp3
+#EXTINF:-1, RELAX
+http://ic3.101.ru:8000/s40
+#EXTINF:-1, Bassdrive - Worldwide Drum and Bass Radio
+http://shouthost.com.32-1.streams.bassdrive.com:8200
+#EXTINF:-1, Bassdrive - Worldwide Drum and Bass Radio
+http://forbes.streams.bassdrive.com:8132
+#EXTINF:-1, Silver Rain Radio
+http://213.59.4.27:8000/silver128.mp3
+#EXTINF:-1, Monte Carlo
+http://air.radiorecord.ru:8104/monte
+#EXTINF:-1, no name
+http://icecast.kab.tv/rus.mp3
+#EXTINF:-1, no name
+http://icecast.kab.tv/heb.mp3
+#EXTINF:-1, Radio Breslav Kol Hanachal
+http://www.breslav.co.il:5555/
+#EXTINF:-1, http://onair.100fmlive.dk/100fm_live.mp3
+http://onair.100fmlive.dk/100fm_live.mp3
+#EXTINF:-1, http://www.radio-beat.com/stream/live.wax
+http://www.radio-beat.com/stream/live.wax
+#EXTINF:-1, http://shouthost.com.32-1.streams.bassdrive.com:8200/listen.pls
+http://shouthost.com.32-1.streams.bassdrive.com:8200/listen.pls
+#EXTINF:-1, http://kohina.duckdns.org:8000/stream.ogg.m3u
+http://kohina.duckdns.org:8000/stream.ogg.m3u
+#EXTINF:-1, BBC Radio 5 Live
+http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live
+#EXTINF:-1, BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p?s=1454545804&amp;e=1454560204&amp;h=7efd244b5682d24bf2303c6715daa4ab
+#EXTINF:-1, BBC Radio 4 LW
+http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_fourlw
+#EXTINF:-1, BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q?s=1454546062&amp;e=1454560462&amp;h=f8823508dd6f1f5061066e16c5e56b8d
+#EXTINF:-1, BBC London
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_q
+#EXTINF:-1, radio B2 Berlin-Brandenburg
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+#EXTINF:-1, rs2
+http://stream.rs2.de/rs2/mp3-128/radioplayerde/;stream.nsv
+#EXTINF:-1, GLGLZ
+http://glzicylv01.bynetcdn.com/glglz_mp3
+#EXTINF:-1, Radio Schizoid
+http://schizoid.in:8000/dubtechno
+#EXTINF:-1, Radio Schizoid
+http://schizoid.in:8000/chill
+#EXTINF:-1, Radio Schizoid
+http://schizoid.in:8000/schizoid
+#EXTINF:-1, Radio Schizoid
+http://schizoid.in:8000/prog
+#EXTINF:-1, Radio Kampus 97,1 FM
+http://193.0.98.66:8005
+#EXTINF:-1, Yasoo
+http://radio-yasoo.ath.cx:7500
+#EXTINF:-1, Venice Classic Radio Italia
+http://www.veniceclassicradio.eu/live1/128.pls
