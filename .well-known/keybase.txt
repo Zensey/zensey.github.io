@@ -1,0 +1,60 @@
+zensey
+Anton Litvinov
+Backend engineer, Golang
+Tallinn
+==================================================================
+https://keybase.io/zensey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zensey.github.io
+  * I am zensey (https://keybase.io/zensey) on keybase.
+  * I have a public key ASBg75DrYpulw_FAPhLlYI1LzWbNN9dlx7CK4GpKhBJrtAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012060ef90eb629ba5c3f1403e12e5608d4bcd66cd37d765c7b08ae06a4a84126bb40a",
+      "host": "keybase.io",
+      "kid": "012060ef90eb629ba5c3f1403e12e5608d4bcd66cd37d765c7b08ae06a4a84126bb40a",
+      "uid": "90465f4b6152617d335dd322418a1b19",
+      "username": "zensey"
+    },
+    "merkle_root": {
+      "ctime": 1613066618,
+      "hash": "d0e102f8a21f45c05611d27aa7ad178f97b6e0032c8e084f42d80ea8e0ab9db62dc8dfeff73eddda9a021aaba9900bf30340e89eb3a53362a376a076470cdc49",
+      "hash_meta": "ed604128c2541efd7f11eec780dd3d8d7fd5cd20ccc9e38285ddbfd3664c65df",
+      "seqno": 19083525
+    },
+    "service": {
+      "entropy": "Ey/DstN1Uqsg8DIL8TT1pZuz",
+      "hostname": "zensey.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1613066673,
+  "expire_in": 504576000,
+  "prev": "bcc63ec2406b1d7616046264e2f29f649183880b8e6d8ebc4e87a53c4806adea",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYO+Q62KbpcPxQD4S5WCNS81mzTfXZcewiuBqSoQSa7QKp3BheWxvYWTESpcCDMQgvMY+wkBrHXYWBGJk4vKfZJGDiAuObY68ToelPEgGrerEIHRj9H2uMmkzZEshgBL0wPXOINoNPtAD2us1mmBTBM2fAgHCo3NpZ8RAxzYO/RyubwQAs//CDKScn/rMJEy34Wzwyrr+SSBXLh90qvTW+2Hop1eRdRWwSZaxYKyFky9XnHeDt7QLopePB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEStHbeKrOmFRF0eKRcsS5/eu4aQeIlHPvegCdqQf/eIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zensey
+
+==================================================================
